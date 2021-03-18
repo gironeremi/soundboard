@@ -1,0 +1,22 @@
+body
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1
+{
+    text-align: center;
+}
+.keys
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.key
+{
+    padding: 0.5rem;
+    border: 1px solid red;
+    border-radius: 20%;
+    box-shadow: 2px 2px 2px grey;
+}
